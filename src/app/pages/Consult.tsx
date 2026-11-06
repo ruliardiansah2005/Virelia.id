@@ -59,9 +59,9 @@ export default function Consult() {
       typeMsg: "Type a message...",
       mapTitle: "Map View",
       getDirections: "Get Directions",
-      nearbyClinics: "Find CERVISCAN™ products or Hospitals",
+      nearbyClinics: "Find Virelia™ products or Hospitals",
       hospitals: "Hospitals & Clinics",
-      stores: "Stores selling CERVISCAN™"
+      stores: "Stores selling Virelia™"
     },
     id: {
       title: "Konsultasi & Peta 🩺",

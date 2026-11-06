@@ -80,9 +80,9 @@ export default function Consult() {
       typeMsg: "Ketik pesan...",
       mapTitle: "Tampilan Peta",
       getDirections: "Dapatkan Arah",
-      nearbyClinics: "Temukan produk CERVISCAN™ atau Rumah Sakit",
+      nearbyClinics: "Temukan produk Virelia™ atau Rumah Sakit",
       hospitals: "Rumah Sakit & Klinik",
-      stores: "Toko yang menjual CERVISCAN™"
+      stores: "Toko yang menjual Virelia dip test™"
     }
   };
 
